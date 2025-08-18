@@ -8,3 +8,4 @@ title = 'My First Post'
 这是 **粗体** 文本，这是 *斜体* 文本。
 
 访问 [Hugo](https://gohugo.io) 网站！
+哈哈哈 我叫Kyrane 我是一个学生
